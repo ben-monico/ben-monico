@@ -1,11 +1,9 @@
-Hello, my name is Bernardo Mónico and I'm currently studying programming.
+Hey there! :wave:
 
-I graduated in Games & Multimedia at IPL - ESTG and worked as a 3D Character Artist for a couple years. Only later did I give a try to programming and I'm really enjoying it.
+I'm a Games & Multimedia graduate with experience in 3D Character Art!
 
-I'm currently enrolled in a programming course at 42 Lisboa, in which I start by learning C and C++. Futurely, I'll have to choose a subject to specialize on.
+I'm currently enrolled in a programming course at :four::two:, coding in C and C++. Every repository starting with "42-cursus" is part of the curriculum.
 
-Every repository starting with "42-cursus" is a project I had/have to deliver as a student at 42.
+If you want to chat, reach me at bcmonico@gmail.com.
 
-If you need to message me feel free to email me: bcmonico@gmail.com.
-
-Thanks for stopping by. 👋
+Thanks for stopping by. :sunglasses:
