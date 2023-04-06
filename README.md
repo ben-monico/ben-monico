@@ -7,7 +7,7 @@ I'm currently enrolled in a programming course at 42 Lisboa to further develop m
 I will always have a soft spot for game dev, but I'm also very interested in AI & Machine Learning.
 
 ## Wanna connect?
-
+<div style="text-align: center;">
 <a href="https://www.linkedin.com/in/bernardo-monico/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>  
@@ -17,6 +17,7 @@ I will always have a soft spot for game dev, but I'm also very interested in AI 
 <a href="mailto:bcmonico@gmail.com">
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png"/>
 </a>  
+</div>
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,git,bash,vscode)](https://skillicons.dev)
