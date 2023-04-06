@@ -6,4 +6,4 @@ I'm currently enrolled in a programming course at :four::two: to further develop
 
 If you want to chat, reach me at bcmonico@gmail.com.
 
-Thanks for stopping by. :sunglasses:
+[![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-monico)](https://github.com/ben-monico/github-readme-stats)
