@@ -3,7 +3,7 @@
 </h2>
 <p>
     I'm a Games & Multimedia graduate with background experience as a 3D Character Artist.
-    I'm currently enrolled in a programming course at 42 Lisboa to further develop my programming skills, programming in C and C++. I will always have a soft spot for game dev, but I'm also very interested in AI & Machine Learning.
+    I'm currently enrolled in a programming course at 42 Lisboa to further develop my programming skills, starting with C and C++. I will always have a soft spot for game dev, but I'm also very interested in AI & Machine Learning.
 </p>
 
 <h2 align="center" >
