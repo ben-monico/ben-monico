@@ -1,5 +1,5 @@
 <h2 align="center" >
-    Hola! &ensp;
+    Hola! &nbsp;
     <img align="center" height="30" src="https://cdn1.iconfinder.com/data/icons/cute-emoji-smiles-with-gradient/82/Cool_Emoticon_Emotion_Expression_Face_Smiley_Sunglasses-512.png"/>
 </h2>
 <p>
