@@ -1,5 +1,6 @@
 <h2 align="center" >
-    Hola! :full_moon_with_face:
+    Hola! &ensp;
+    <img align="center" height="50" src="https://cdn1.iconfinder.com/data/icons/cute-emoji-smiles-with-gradient/82/Cool_Emoticon_Emotion_Expression_Face_Smiley_Sunglasses-512.png"/>
 </h2>
 <p>
     I'm a Games & Multimedia graduate with background experience as a 3D Character Artist.
