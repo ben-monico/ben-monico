@@ -11,7 +11,7 @@ I will always have a soft spot for game dev, but I'm also deeply interested in A
 </p>
 
 <h2 align="center" >
-    Wanna connect?
+    Want to connect?
 </h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/bernardo-monico/">
