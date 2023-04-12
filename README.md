@@ -29,7 +29,7 @@ I will always have a soft spot for game dev, but I'm also deeply interested in A
 </h2>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img text-align="center" src="https://skillicons.dev/icons?i=c,cpp,linux,git,bash,vscode"/>
+        <img text-align="center" src="https://skillicons.dev/icons?i=c,cpp,linux,git,bash,vscode,vim"/>
     </a>
 </p>
 
